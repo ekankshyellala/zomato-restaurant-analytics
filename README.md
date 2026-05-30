@@ -44,6 +44,9 @@ Interactive Power BI dashboard tracking ratings, costs, restaurant types & booki
 📌 Rating avg = 3.63/5 (competitive market)
 📌 Online ordering emerging trend
 
+<img width="959" height="678" alt="Screenshot 2026-05-30 001802" src="https://github.com/user-attachments/assets/bec6c261-4d13-4302-80ba-209f2cbea282" />
+
+
 ## SQL Queries
 ✅ Top restaurants by rating
 ✅ Restaurant type distribution
